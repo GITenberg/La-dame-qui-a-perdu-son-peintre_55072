@@ -1,0 +1,29 @@
+_repo: La-dame-qui-a-perdu-son-peintre_55072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Paul Charles Joseph
+    - Bourget, Charles Joseph Paul
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouvelles
+gutenberg_issued: '2017-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55072'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La dame qui a perdu son peintre
+url: http://www.gutenberg.org/ebooks/55072
