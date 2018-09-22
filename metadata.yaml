@@ -1,5 +1,8 @@
 _repo: La-dame-qui-a-perdu-son-peintre_55072
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55072-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55072#La-dame-qui-a-perdu-son-peintre
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouvelles
